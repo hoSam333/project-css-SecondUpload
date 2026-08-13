@@ -1,0 +1,7 @@
+-> varibales {
+    - name store a value
+    - start with --
+    - custom Property
+    - re use
+    - the varibale written in :root
+}
